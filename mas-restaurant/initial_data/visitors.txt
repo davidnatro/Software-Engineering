@@ -1,0 +1,16 @@
+{
+  "visitors": [
+    {
+      "id": 1,
+      "name": "visitor #1"
+    },
+    {
+      "id": 2,
+      "name": "visitor #2"
+    },
+    {
+      "id": 3,
+      "name": "visitor #3"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "name": "dish #1",
+      "price": 100,
+      "in_stock": true,
+      "products_ids": [1, 2],
+      "product_quantity": [2, 2],
+      "cooking_time_seconds": 2
+    },
+    {
+      "id": 2,
+      "name": "dish #2",
+      "price": 200,
+      "in_stock": true,
+      "products_ids": [1],
+      "product_quantity": [1],
+      "cooking_time_seconds": 1
+    },
+    {
+      "id": 3,
+      "name": "dish #3",
+      "price": 300,
+      "in_stock": false,
+      "products_ids": [2, 3, 1],
+      "product_quantity": [1, 1, 1],
+      "cooking_time_seconds": 2
+    }
+  ]
+}

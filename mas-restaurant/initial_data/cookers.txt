@@ -1,0 +1,16 @@
+{
+  "cookers": [
+    {
+      "id": 1,
+      "name": "Ivanov A. S."
+    },
+    {
+      "id": 2,
+      "name": "Petrov I. V."
+    },
+    {
+      "id": 3,
+      "name": "Sidorov G. S."
+    }
+  ]
+}
